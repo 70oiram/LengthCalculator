@@ -6,3 +6,9 @@ txtCm添加換算程式碼
 txtCM更新:同步公尺、公里換算
 txtM 新增:公分、公里換算
 
+2025/3/18  16:33
+txtM更新: 刪除公里換算
+txtCM更新: 補充所有長度換算
+txtCM增加:TextChanged判定
+增加:總更新(txtCM <-- TextChanged)
+--完成、驗證所有長度換算
